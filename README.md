@@ -1,5 +1,6 @@
 # Hey there, I'm zakarie ali 👋
 
+
 I'm a passionate Full Stack Developer and Computer Engineering student based in Istanbul. With a strong foundation in web development, I'm driven to create user-centered applications that solve real-world problems. I'm fluent in Turkish, English, and Somali, which allows me to communicate and collaborate effectively across diverse teams.
 
 ## Skills
