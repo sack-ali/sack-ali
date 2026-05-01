@@ -1,37 +1,50 @@
-# Hey there, I'm zakarie ali 👋
+# Hey, I'm Zakarie 👋
 
+**Computer Engineering graduate (June 2026, High Honours) — Üsküdar University, Istanbul.**
+I build AI systems that retrieve, reason, and act — with a focus on NLP, RAG, and agentic workflows.
 
-I'm a passionate Full Stack Developer and Computer Engineering student based in Istanbul. With a strong foundation in web development, I'm driven to create user-centered applications that solve real-world problems. I'm fluent in Turkish, English, and Somali, which allows me to communicate and collaborate effectively across diverse teams.
+🎓 Incoming MSc candidate (Data Science / Computer Engineering)
+🌍 Working in English, Turkish, and German
+📍 Istanbul → open to opportunities across Europe
 
-## Skills
+---
 
-- **Front-End:** HTML, CSS, JavaScript, TypeScript
-- **Back-End:** Node.js, Express.js, MongoDB, Redis
-- **Mobile App:** Flutter (Currently Exploring)
-- **Cloud Services:** AWS for Scalable Applications
+## What I work on
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+I'm most interested in the messy, interesting space where **language models meet structured knowledge**: retrieval-augmented systems, knowledge graphs, agent architectures, and the evaluation problems that come with them.
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
-  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+### 🔬 Featured projects
 
-## About Me
+**[TrumorGPT](#)** — Health misinformation detection using GraphRAG
+A graph-augmented RAG pipeline combining BERT, LDA topic modeling, PageRank, and NLI for claim verification against curated medical knowledge graphs. Built the LLM integration and retrieval layer on a distilgpt2 backbone with prompt guardrails and benchmark instrumentation. Presented at a student research congress.
+`Python` `Transformers` `Knowledge Graphs` `RAG` `NLI`
 
-I'm currently in my second year of studying Computer Engineering, and I'm deeply passionate about technology and its impact on society. I'm enthusiastic about exploring new challenges and expanding my skillset through continuous learning.
+**[ZK-SecureStorage](#)** — Client-side encrypted file sharing
+Zero-knowledge file storage where the server never sees plaintext. Frontend/UX lead — built the React/Next.js client, Web Crypto API integration, and Supabase backend wiring. End-to-end encrypted, with shareable links that don't compromise the encryption boundary.
+`Next.js` `React` `Web Crypto API` `Supabase` `TypeScript`
 
-## Projects and Collaborations
+**[PATH Project](#)** — Imbalanced classification for healthcare transparency
+ML pipeline tackling severely imbalanced clinical data — sampling strategies, calibration, and fairness-aware evaluation.
+`Python` `scikit-learn` `Pandas`
 
-I've had the opportunity to collaborate on various projects that have helped me refine my skills and gain hands-on experience. Most recently, I worked on a capstone project focused on building a food delivery application. This experience has honed my ability to work in teams, manage projects, and deliver high-quality solutions.
+---
 
-## Get in Touch
+## Tech I reach for
 
-I'm always open to connecting with fellow developers, discussing potential collaborations, or simply having a tech chat. Feel free to reach out to me via email at zackhusein894@gmail.com, or find me on [LinkedIn](www.linkedin.com/in/zakarie-hussein-477963186) to learn more about my journey and projects.
+**AI / ML**  Python · PyTorch · Hugging Face Transformers · LangChain · RAG · Knowledge Graphs · scikit-learn
+**Frontend**  React · Next.js · TypeScript · TailwindCSS
+**Backend**  Node.js · Express · Supabase · MongoDB · Redis · PostgreSQL
+**Infra**  AWS · Docker · Web Crypto API
+**Currently learning**  LangGraph · agent evaluation frameworks · multi-agent orchestration
 
-Let's make the digital world a better place, one line of code at a time! 💻🌍
+---
+
+## About me
+
+Computer Engineering student graduating with High Honours in June 2026. My academic work centers on applied NLP and information retrieval — particularly how to make language models grounded, verifiable, and useful in domains where being wrong has real consequences (health, security, knowledge work).
+
+Outside coursework I lead technical components on group projects, mentor through İSSTEAM's Target Friendship initiative, and take freelance work on AI integration and automation for small businesses.
+
+Always happy to talk about: agent architectures, retrieval systems, knowledge graphs, or graduate research in applied AI.
+
+📫 **Reach me:** [LinkedIn](https://linkedin.com/in/zakarie-hussein-477963186) · [Email](#)
